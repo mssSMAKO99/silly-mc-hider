@@ -1,0 +1,15 @@
+# Папка сборки Maven
+target/
+dependency-reduced-pom.xml
+
+# Файлы и настройки Eclipse
+.settings/
+.classpath
+.project
+
+# Системные и временные файлы
+*.log
+.DS_Store
+Thumbs.db
+pom.xml
+java-pre-4.0.jar
